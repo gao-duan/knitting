@@ -1,0 +1,2 @@
+iter: 0 ; error: 2.70651e-06; mutation: 1
+iter: 10000 ; error: 1.08696e-06; mutation: 2899
